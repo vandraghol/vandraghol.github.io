@@ -1,0 +1,122 @@
+.denis {
+	background-color: rgb(203, 255, 81);
+	text-align: center;
+	width: 95%;
+	height: 120px;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	color: teal;
+	text-align: left;
+	float: right;
+	border: solid turquoise;
+	box-sizing: border-box;
+	
+background: linear-gradient(45deg, #ff9bf7, #69cfff);
+	
+}
+h1{
+	text-align: center;
+}
+.denis1 {
+	width:50%;
+	height:100px; 
+	background-color: rgb(233, 224, 224);
+	text-align: left;
+	float: left;
+	background: linear-gradient(45deg, #96a5ff, #fc9cff);
+	border: solid turquoise;
+	box-sizing: border-box;
+	background: linear-gradient(45deg, #ff9bf7, #69cfff);
+	
+}
+
+.denis2 {
+	width:50%;
+	height: 100px;
+	background-color: rgb(205, 212, 205);
+	text-align: center;
+	float:left;
+	background: linear-gradient(45deg, #fdd5f6, #69cfff);
+	border: solid turquoise;
+	box-sizing: border-box;
+	background: linear-gradient(45deg, #ff9bf7, #69cfff);
+
+}
+
+.denis3 {
+	width:15%;
+	height: 750px;
+	background-color: rgb(187, 201, 191);
+	text-align: center;
+	float:left;
+	border: solid turquoise;
+	box-sizing: border-box;
+	background: linear-gradient(45deg, #ff9bf7, #69cfff);
+
+}
+
+.denis4 {
+	width:60%;
+	height: 500px;
+	background-color: rgb(216, 216, 197);
+	text-align: center;
+	float:left;
+	border: solid turquoise;
+	box-sizing: border-box;
+	background: linear-gradient(45deg, #ff9bf7, #69cfff);
+
+}
+
+.denis5 {
+	width:25%;
+	height: 750px;
+	background-color: rgb(219, 210, 219);
+	text-align: center;
+	float:right;
+	border: solid turquoise;
+	box-sizing: border-box;
+	background: linear-gradient(45deg, #ff9bf7, #69cfff);
+
+}
+
+.denis6 {
+	width:60%;
+	height: 150px;
+	background-color: rgb(201, 195, 202);
+	text-align: center;
+	float:left;
+	border: solid turquoise;
+	box-sizing: border-box;
+	background: linear-gradient(45deg, #ff9bf7, #69cfff);
+
+}
+
+.denis7 {
+	width:30%;
+	height: 100px;
+	background-color: rgb(160, 147, 221);
+	text-align: left;
+	float:left;
+	border: solid turquoise;
+	box-sizing: border-box;
+	background: linear-gradient(45deg, #ff9bf7, #69cfff);
+
+}
+
+.denis8 {
+	width:30%;
+	height: 100px;
+	background-color: rgb(211, 207, 207);
+	text-align: center;
+	float:left;
+	border: solid turquoise;
+	box-sizing: border-box;
+	background: linear-gradient(45deg, #ff9bf7, #69cfff);
+
+}
+.img{
+	float:left;
+	width: 5%;
+	height: 120px;
+	background: #ff9bf7
+	
+}
